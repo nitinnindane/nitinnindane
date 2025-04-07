@@ -32,12 +32,12 @@
 
 <h2 align="center">⚒ Languages-Frameworks-Tools ⚒</h2>
 <br/>
-<!-- <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,spring,angular,react,vue,astro,nextjs,javascript,typescript" /><br>
-    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,html,css,mysql,postgres,firebase,prisma" /><br>
-    <img src="https://skillicons.dev/icons?i=vercel,vite,docker,git,github,githubactions,idea,vscode" />
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=java,spring,react,javascript" /><br>
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=git,github,githubactions,idea,vscode" />
     <br>
-</div> -->
+</div>
 
 
 <br/>
